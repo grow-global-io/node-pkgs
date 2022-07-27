@@ -1,4 +1,4 @@
-# npm-pkgs
+# node-pkgs
 Holds all the public Node packages (npm) for `@grow-global-io`
 
 ## How to use any of these packages
